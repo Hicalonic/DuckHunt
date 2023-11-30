@@ -5,7 +5,7 @@
 
 <h2 align="">Duck Hunt</h2>
 This is a simple duck hunting game built using JavaScript, HTML, and CSS. The game is designed to be played on web browsers and provides a fun and interactive experience for players.
-<b><p>Enjoy playing Duck Hunter! [Have fun aiming and shooting those ducks!](https://hicalonic.github.io/DuckHunt/) </p></b>
+<b><p>Enjoy playing Duck Hunter! <a href="https://hicalonic.github.io/DuckHunt/"> Have fun aiming and shooting those ducks!</a></p></b>
 
 
 ---
